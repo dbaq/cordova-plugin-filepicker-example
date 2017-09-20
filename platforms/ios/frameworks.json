@@ -1,0 +1,7 @@
+{
+    "Foundation.framework": 2,
+    "CoreFoundation.framework": 2,
+    "QuartzCore.framework": 2,
+    "SystemConfiguration.framework": 2,
+    "CoreTelephony.framework": 1
+}

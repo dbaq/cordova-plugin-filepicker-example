@@ -1,0 +1,50 @@
+{
+  "_from": "git+https://github.com/dbaq/cordova-plugin-filepickerio.git",
+  "_id": "cordova-plugin-filepickerio@0.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-qr7hJBbZhh7FTU1lSpCKgE272ew=",
+  "_location": "/cordova-plugin-filepickerio",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/dbaq/cordova-plugin-filepickerio",
+    "rawSpec": "https://github.com/dbaq/cordova-plugin-filepickerio",
+    "saveSpec": "git+https://github.com/dbaq/cordova-plugin-filepickerio.git",
+    "fetchSpec": "https://github.com/dbaq/cordova-plugin-filepickerio.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/dbaq/cordova-plugin-filepickerio.git#53b234f5bcda87fc3b9fd15094c305c0503fa393",
+  "_spec": "https://github.com/dbaq/cordova-plugin-filepickerio",
+  "_where": "/Users/dbaq/playground/helloFileStack/node_modules",
+  "author": {
+    "name": "Didier Baquier",
+    "email": "didier.baquier@gmail.com",
+    "url": "http://www.didierbaquier.fr"
+  },
+  "bugs": {
+    "url": "https://github.com/dbaq/cordova-plugin-filepickerio/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "FileStack plugin for Cordova. Available for Android and iOS.",
+  "homepage": "https://github.com/dbaq/cordova-plugin-filepickerio#readme",
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "cordova-ios",
+    "cordova-android",
+    "filestack",
+    "filepicker"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-filepickerio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbaq/cordova-plugin-filepickerio.git"
+  },
+  "version": "0.0.7"
+}
